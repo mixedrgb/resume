@@ -13,31 +13,31 @@ Email and phone upon request!
 
 # Technical Projects
 
-- RPG Game https://github.com/mixedrgb/dotnet-rpg
+- __RPG Game__ - https://github.com/mixedrgb/dotnet-rpg
 Simple text-based, role-playing game which uses C# and .NET, CRUD, MVC, and Entity Framework. Currently a work-in-progress.
 
-- Terminal Shell https://github.com/mixedrgb/CSharpShell
+- __Terminal Shell__ - https://github.com/mixedrgb/CSharpShell
 A basic command-line shell in C# for operation and navigation within a Windows-based operating system.
 
-- Windows Forms GUI https://github.com/mixedrgb/ModernUI
+- __Windows Forms GUI__ - https://github.com/mixedrgb/ModernUI
 A proof of concept with Windows Forms which constructs a “modernized” GUI.
 
-- URL Expansion Tool https://github.com/mixedrgb/urlexpander
+- __URL Expansion Tool__ - https://github.com/mixedrgb/urlexpander
 A single-task web server written with Golang to retrieve and display to the user the full URL of a shortened web address.
 
-- RSS Client https://github.com/mixedrgb/go-rss
+- __RSS Client__ - https://github.com/mixedrgb/go-rss
 A simple proof-of-concept client written in Golang to retrieve and display RSS feed data.
 
 
 # Hands-on Experience
 
-- SQL Server
+- __SQL Server__ - 
 Utilized Microsoft SQL Server to construct and modify table data, and sort and order data for certain tasks given a set of instructions.
-- Windows Software Development
+- __Windows Software Development__ - 
 Implemented various programs for proof-of-concept and exploration of stack technology on the Windows operating system.
-- Network Technician
+- __Network Technician__ - 
 	Utilized CompTIA+ troubleshooting skills to maintain user hardware with minimal downtime in the University student lab.
-- Linux Systems Administration
+- __Linux Systems Administration__ - 
 	Five years experience in command of multiple Linux-based distributions within a home-networked laboratory environment. Made extensive use of command-line scripting utilizing Perl and Bash, and traditional CLI-based tools, e.g., Restic, Rclone, to back up critical server data to an S3-compatible off-site location with Backblaze.
 
 
@@ -68,5 +68,5 @@ Implemented various programs for proof-of-concept and exploration of stack techn
 # Education 
 
 ### University of Arkansas Community College at Morrilton (UACCM) 	Fall 2015 – May 2019
-### Associate of Applied Science in Computer Information Systems Technology
+#### Associate of Applied Science in Computer Information Systems Technology
 Coursework consisted of introducing and developing critical problem-solving skills for computer networking environments, troubleshooting software bugs and hardware issues, using server-side technology (Windows Server, Ubuntu Linux) for hosting and maintaining customer infrastructure, and introductory front-end development using Vanilla JavaScript, HTML, and CSS.
